@@ -1,0 +1,2 @@
+# AdidasQA
+repo for assessment
